@@ -14,12 +14,12 @@ A nivel de diseño:
 
 - Nos proporcionan todas las imágenes de todos los animalitos así como los logos
 
-[imgs.zip](recursos/imgs.zip)
+> [imgs.zip](recursos/imgs.zip)
 
 - Los iconos de menú y shopping tendremos que sacarlos de https://www.svgrepo.com/ y crear una fuente iconográfica personalizada a través de https://icomoon.io/app
 
-[icon-fonts.zip](recursos/icon-fonts.zip)
+> [icon-fonts.zip](recursos/icon-fonts.zip)
 
 - La fuente tipográfica es Montserrat, pudiendo encontrarla en https://fonts.google.com/. (utilizamos la tipo light y la regular)
 
-[fonts.zip](recursos/fonts.zip)
+> [fonts.zip](recursos/fonts.zip)
