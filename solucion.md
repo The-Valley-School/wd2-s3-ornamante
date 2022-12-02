@@ -1,1 +1,1 @@
-> [DESCARGAR SOLUCIÓN](/recursos/wd2-s3-ornamante.zip)
+> [DESCARGAR SOLUCIÓN](/recursos/wd2-ws-ornamante.zip)
