@@ -1,6 +1,6 @@
 
 
-¡Hoy le toca el turno a Ornamante!
+¡Hoy le toca el turno a Ornamante2!
 
 Estas esculturas con forma animaloide buscan casa y para ello tenemos que realizar una web que nos permita hacérselas llegar al máximo número de personas, por lo tanto, tiene que ser responsive.
 
